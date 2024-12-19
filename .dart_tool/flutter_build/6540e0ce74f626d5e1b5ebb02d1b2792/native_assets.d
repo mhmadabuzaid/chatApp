@@ -1,0 +1,1 @@
+ C:\\Users\\MCC\\StudioProjects\\flash-chat-flutter\\.dart_tool\\flutter_build\\6540e0ce74f626d5e1b5ebb02d1b2792\\native_assets.yaml: 
