@@ -1,13 +1,10 @@
-
-It looks like the formatting of your README may be inconsistent, especially with the lack of proper line breaks and spacing. To make it look better on GitHub and enhance readability, I suggest adjusting the markdown formatting slightly.
-
-Here’s a more structured version of the README content with better formatting:
-
 ⚡️ Real-Time Chat App
+
 Overview
 A real-time chat application built with Flutter and Firebase. This app allows users to send and receive messages instantly, ensuring a seamless chatting experience. The app utilizes Firebase for authentication and Firestore for real-time messaging.
 
 Features
+
 User Authentication:
 Secure login functionality using Firebase Authentication to sign in users.
 
